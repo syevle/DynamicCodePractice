@@ -1,7 +1,7 @@
 package graph.maze.six;
 
 /**
- * Link : Find the shortest path from source to destination in a matrix that satisfies given constraints
+ * Link : https://www.techiedelight.com/find-shortest-path-source-destination-matrix-satisfies-given-constraints/
  *
  * Find the shortest path from source to destination in a matrix that satisfies given constraints
  *

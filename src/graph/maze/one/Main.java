@@ -92,3 +92,5 @@ class Main
         System.out.println("The total number of unique paths are " + count);
     }
 }
+//  =========================== OutPut ==============================
+//The total number of unique paths are 4
