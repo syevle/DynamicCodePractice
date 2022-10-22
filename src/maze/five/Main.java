@@ -1,4 +1,4 @@
-package graph.maze.five;
+package maze.five;
 
 /**
  * Link : https://www.techiedelight.com/find-path-source-destination-matrix-satisfies-given-constraints/

@@ -1,12 +1,10 @@
-package graph.maze.seven;
+package backtracking.p4;
 
 /**
- * Link : https://www.techiedelight.com/find-longest-possible-route-matrix/
- *
  * Find the longest possible route in a matrix
+ *
+ * https://www.techiedelight.com/find-longest-possible-route-matrix/
  */
-
-
 class Main
 {
     // Check if it is possible to go to position (x, y) from

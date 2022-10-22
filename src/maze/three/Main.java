@@ -1,4 +1,4 @@
-package graph.maze.three;
+package maze.three;
 
 /**
  * Link : https://www.techiedelight.com/find-shortest-path-in-maze/

@@ -8,6 +8,10 @@ package backtracking.p28;
 import java.util.*;
 
 // A class to store a graph edge
+/**
+ * Link : https://www.techiedelight.com/find-path-between-vertices-directed-graph/
+ * Find the path between given vertices in a directed graph
+ */
 class Edge
 {
     public final int source, dest;
@@ -120,3 +124,7 @@ class Main
         }
     }
 }
+
+/*  ========================= Out Put ===================================
+Path exists from vertex 0 to vertex 7
+ */

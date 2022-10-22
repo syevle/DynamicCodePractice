@@ -1,4 +1,4 @@
-package graph.maze.six;
+package maze.six;
 
 /**
  * Link : https://www.techiedelight.com/find-shortest-path-source-destination-matrix-satisfies-given-constraints/

@@ -1,4 +1,4 @@
-package graph.maze.two;
+package maze.two;
 
 
 /**

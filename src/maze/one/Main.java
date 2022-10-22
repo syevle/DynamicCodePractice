@@ -1,4 +1,4 @@
-package graph.maze.one;
+package maze.one;
 
 
 /**

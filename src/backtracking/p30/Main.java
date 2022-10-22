@@ -4,7 +4,12 @@ package backtracking.p30;
 /**
  * Easy
  * Link : https://www.techiedelight.com/print-all-paths-from-root-to-leaf-nodes-binary-tree/
+ *
  * Print all paths from the root to leaf nodes of a binary tree
+ *
+ * The problem seems a bit difficult to solve without recursion.
+ * There is one workaround where we store the path from the root-to-leaf in a string as we traverse the tree iteratively
+ * and print the path whenever we encounter any leaf node. This is demonstrated below in C++, Java, and Python:
  */
 import java.util.ArrayDeque;
 import java.util.Deque;
@@ -115,7 +120,7 @@ class Main
 }
 
 
-/**
+/**  ==================== OUT PUT ==============================================
  * 1 —> 2 —> 4
  * 1 —> 2 —> 5
  * 1 —> 3 —> 6 —> 8

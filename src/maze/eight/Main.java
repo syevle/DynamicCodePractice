@@ -1,4 +1,4 @@
-package graph.maze.eight;
+package maze.eight;
 
 /**
  * Link : https://www.techiedelight.com/find-shortest-distance-every-cell-landmine-maze/

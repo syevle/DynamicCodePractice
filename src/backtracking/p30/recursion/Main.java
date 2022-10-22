@@ -4,7 +4,12 @@ package backtracking.p30.recursion;
 /**
  * Easy
  * Link : https://www.techiedelight.com/print-all-paths-from-root-to-leaf-nodes-binary-tree/
+ *
  * Print all paths from the root to leaf nodes of a binary tree
+ *
+ * The idea is to traverse the tree in a preorder fashion and store every encountered node in
+ * the current path from the root-to-leaf in a vector.
+ * If we encounter a leaf node, print all nodes present in the vector.
  *
  * The time complexity of the above solution is O(n), where n is the total number of nodes in the binary tree.
  * The program requires O(h) extra space for the call stack, where h is the height of the tree.
